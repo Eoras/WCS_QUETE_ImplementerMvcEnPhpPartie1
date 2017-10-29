@@ -1,0 +1,15 @@
+{
+    "name": "paul/mvc",
+    "authors": [
+        {
+            "name": "Eoras",
+            "email": "pauldsb@outlook.fr"
+        }
+    ],
+    "autoload" : {
+        "psr-4": {
+            "MVC\\" : "src/"
+        }
+    },
+    "require": {}
+}
